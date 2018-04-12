@@ -1,0 +1,8 @@
+/home/david/Repos/aws-dotnetcore-lambda/hello-world/bin/Debug/netcoreapp1.1/hello-world.deps.json
+/home/david/Repos/aws-dotnetcore-lambda/hello-world/bin/Debug/netcoreapp1.1/hello-world.runtimeconfig.json
+/home/david/Repos/aws-dotnetcore-lambda/hello-world/bin/Debug/netcoreapp1.1/hello-world.runtimeconfig.dev.json
+/home/david/Repos/aws-dotnetcore-lambda/hello-world/bin/Debug/netcoreapp1.1/hello-world.dll
+/home/david/Repos/aws-dotnetcore-lambda/hello-world/bin/Debug/netcoreapp1.1/hello-world.pdb
+/home/david/Repos/aws-dotnetcore-lambda/hello-world/obj/Debug/netcoreapp1.1/hello-world.AssemblyInfo.cs
+/home/david/Repos/aws-dotnetcore-lambda/hello-world/obj/Debug/netcoreapp1.1/hello-world.dll
+/home/david/Repos/aws-dotnetcore-lambda/hello-world/obj/Debug/netcoreapp1.1/hello-world.pdb
